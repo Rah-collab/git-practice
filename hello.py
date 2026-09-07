@@ -1,1 +1,3 @@
-print("Hello git")
+name = "Rahul"
+print("Hello", name)
+print("I am learning Git and Github")
