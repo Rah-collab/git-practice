@@ -19,3 +19,7 @@ Rahul Thakur
 ## GitHub Practice
 
 I am learning Git and GitHub step by step.
+
+## Pull Request Practice
+
+I am learning how Pull Requests work in GitHub.
