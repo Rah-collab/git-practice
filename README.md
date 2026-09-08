@@ -15,3 +15,7 @@ This repository is created to practice Git and GitHub.
 ## Author
 
 Rahul Thakur
+
+## GitHub Practice
+
+I am learning Git and GitHub step by step.
